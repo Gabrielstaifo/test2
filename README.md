@@ -1,4 +1,4 @@
-# #  Continuous-integration
+#  Continuous-integration
 
 DD2480 Group 23: 
 -   Ahmet Oguz Engin.
@@ -52,9 +52,9 @@ The mail contains the results from the build: Either that the compilation and te
 - Gabriel Staifo: Implemented a function that build a cloned repo. The functions builds a Gradle project and returns an object contains information about the build. So if the build was succeeded the object will sets to “SUCCESSFUL” otherwise it will be “FAILURE”. Two tests for this function were implemented, one for success and one for failure.
 
 The number of fixed issues for each member of the group:
-|                  |Issue number                     |
+|         Name     |Issue number                     |
 |------------------|-------------------------------  |
-|Ahmet Oguz    |  	1,2,3,4        			   |
-|Anton Ärnbäck |2, 17, 20, 21, 22, 23, 39, 41, 47|
-|Carin Bystam  |								   |
-|Gabriel Staifo|26, 27, 50					   |
+|Ahmet Oguz        |  	1,2,3,4        			     |
+|Anton Ärnbäck     |2, 17, 20, 21, 22, 23, 39, 41, 47|
+|Carin Bystam      |							     |
+|Gabriel Staifo    |26, 27, 50					     |
